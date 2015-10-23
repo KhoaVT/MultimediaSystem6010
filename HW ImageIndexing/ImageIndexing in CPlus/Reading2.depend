@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1445267803 source:c:\users\sky\onedrive\learn c++\practice cplus\reading2\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	<vector>
+
+1445268881 source:c:\users\sky\onedrive\learn c++\practice cplus\imageindexing in cplus\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	<vector>
+
